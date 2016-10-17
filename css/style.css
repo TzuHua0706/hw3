@@ -19,9 +19,14 @@ h1{
   margin:0;
 }
 
+strong{
+  height: 43px;
+  font-size: 43px;
+}
+
 nav ul{
   margin:0px 160px 0px 150px;
-  padding-top: 16px;
+  padding-top: 11px;
   padding-bottom: 32px;
   background-color: #889C5B;
   font-family: Arial Black;
@@ -45,7 +50,7 @@ aside{
 }
 
 aside img{
-  margin-top: 11px;
+  margin-top: 28px;
   margin-left: 8px;
   max-width: 25px;
   max-height: 25px;
@@ -58,7 +63,7 @@ aside div p{
   padding:5px 9px 5px 9px;
   font-size:12px;
   float:right;
-  margin: 10px 0 17px 8px;
+  margin: 27px 0 17px 8px;
   font-family: Arial Black;
   border-radius : 3px;
 }
@@ -71,7 +76,7 @@ header hr{
   background-color: #778A50;
   margin-left: 10px;
   margin-right: 2px;
-  margin: 16px;
+  margin-top: 33px;
 }
 
 article{
@@ -95,8 +100,8 @@ section{
   margin-top: 0;
   margin-bottom: 0;
   max-width: 413px;
-  padding-top: 16px;
-  padding-bottom: 16px;
+  padding-top: 14px;
+  padding-bottom: 14px;
   padding-left: 31px;
   color:#EDF2C5;
   background-color: #889C5B;
@@ -124,8 +129,8 @@ div{
   margin-top: 0;
   margin-bottom: 0;
   color:#EDF2C5;
-  padding-top: 16px;
-  padding-bottom: 16px;
+  padding-top: 14px;
+  padding-bottom: 14px;
   padding-left: 31px;
   width: 413px;
   background-color: #889C5B;
